@@ -1,0 +1,77 @@
+.sharad
+{
+   width:50%;
+    margin-left: auto;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    background-color: rgb(49, 181, 243);
+    border: 1px solid rgb(48, 238, 222);
+    padding: 5px;
+    z-index: 100;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.heading
+{
+    font-size: 30px;
+    text-align: center;
+}
+.form-group
+{
+  margin-top: 10px;
+}
+
+label
+{
+  font-size: 22px;
+  line-height: 1em;
+  
+}
+.form-control
+{
+  font-size: 1.3em;
+  color: #080808;
+}
+.submit
+{
+    color: black;
+    position: absolute;
+    left:35%;
+    background-color: rgb(255, 160, 122);
+    font-size: 1.1em;
+    margin-top: 15px;
+    width:30%;
+    
+}
+#sharma
+{
+  display: none;
+}
+#detailll
+{
+  background-color:white;
+}
+.vats
+{
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.dog
+{
+    position: relative;
+    animation-name: changebg;
+    background-color: rgb(255,160, 122);
+    border-radius: 5px;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    
+}
